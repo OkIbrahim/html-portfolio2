@@ -1,0 +1,136 @@
+  h1 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 5.625rem;
+    color: #368C1B;
+    text-align: center;
+    padding-top: 0px;
+    margin: 50px auto 0 auto;
+  }
+
+  h2 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2.5rem;
+    color: cornflowerblue;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+  .top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: aqua;
+    height: 635px;
+  }
+
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+  }
+
+  .ubuntu-medium-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .ubuntu-bold-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  .intro {
+    width: 30%;
+    margin: auto;
+  }
+  
+  #Hello {
+    padding-top: 20px;
+  }
+
+  hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+
+  .pro {
+    text-decoration: underline;
+  }
+
+  body {
+    margin: 0;
+    text-align: center;
+    display: block;
+  }
+
+  div {
+    display: block;
+    unicode-bidi: isolate;
+  }
+
+  .bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+  }
+
+  .middle-container {
+    margin: 100px 0;
+  }
+
+  .parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+  }
+
+  h3 {
+    color: #11999e;
+    font-family: "Ubuntu", sans-serif;
+  }
+
+  p {
+    line-height: 2;
+    text-align: left;
+  }
+
+  .maths-img {
+    width: 50%;
+    margin-left: 30px;
+  }
+
+  .bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+  }
+
+  a {
+    color: #11999e;
+    font-family: "Ubuntu", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+
+  .copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .tunji {
+    border-radius: 50%;
+  }
+
+  
